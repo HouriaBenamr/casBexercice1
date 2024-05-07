@@ -1,0 +1,16 @@
+body{
+background-image:url("https://www.denicourt.ca/wp-content/uploads/2018/01/plan-demprise_couleur-1024x591.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+width:100%;
+height:100%;
+}
+.p1{
+	font-family: Helvetica, Arial, sans-serif;
+}
+.p2{
+	color:blue;
+}
+#hidden{
+	display:none;
+}
